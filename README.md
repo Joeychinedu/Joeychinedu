@@ -13,7 +13,7 @@
 
 - 📫 You can reach me at **ihemelanduchinedu@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1fyo7JHq6d0goslXnJXdb96lX2js6ONbnxytbUYx0PJc/edit?usp=sharing](https://docs.google.com/document/d/1fyo7JHq6d0goslXnJXdb96lX2js6ONbnxytbUYx0PJc/edit?usp=sharing)
+- 📄 Know about my experiences [here](https://docs.google.com/document/d/1fyo7JHq6d0goslXnJXdb96lX2js6ONbnxytbUYx0PJc/edit?usp=sharing)
 
 - ⚡ Fun fact **I think I might be a great chef🤷**
 
