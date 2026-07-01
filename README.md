@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Machine Learning and AI**
 
-- 👨‍💻 All of my projects are available at [chinedujoey.tech](chinedujoey.tech)
+- 👨‍💻 All of my projects are available at [chinedujoey.tech](chinedujoey.com)
 
-- 📝 I regularly write articles on [chinedujoey.online](chinedujoey.online)
+- 📝 I regularly write articles on [chinedujoey.online](blog.chinedujoey.com)
 
 - 💬 I'm open to collaborating on Any Frontend/Backend project
 
